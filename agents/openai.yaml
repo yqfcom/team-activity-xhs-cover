@@ -1,0 +1,4 @@
+interface:
+  display_name: "团队活动小红书封面"
+  short_description: "从活动母版提炼企划感小红书封面提示词"
+  default_prompt: "Use $team-activity-xhs-cover to turn my team activity brief into a polished Xiaohongshu cover prompt."
